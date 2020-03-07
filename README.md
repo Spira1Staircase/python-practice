@@ -1,7 +1,8 @@
 # python-practice
-******
+
 **環境**
 - Python 3.6.5
+
 **ゼロから作るDeep Lerning**
  - １章　Python 入門 start 3/7 Finish 3/7  
  - ２章　パーセプトロン start 3/7  
